@@ -14,5 +14,6 @@ To reduce the randomness of the game and improve the reflection of decision-maki
   - God:
     - The manager, project owner or shareholder of the project.
 
-- Preparation for start of the game.
+- Preparation.
+  - Each player need to list 6 questions about the social-technical  
 
