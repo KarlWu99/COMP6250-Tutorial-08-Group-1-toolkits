@@ -1,8 +1,18 @@
-*Basic Rule Of the Game
+# Basic description of this game
 
 When a company/organization encounters a problem during a project and needs to make a decision, there are usually different members who propose different solutions, but only the best solution is used in the final execution.The game is designed to help managers choose the best option. 
 
 The game is similar to Catan Dice - Island 1. Players will use the resources obtained by answering questions on question cards they selected to obtain the corresponding type of resources, and then use these resources to build roads, settlements, cities and knights to get scores. Each question card will have a topic (stakeholders, teamwork, ethics, environment, or society), and the questions above are related to its card topic, which are non-technical problems that the solution may encounter. If the player is unable to successfully answer these questions, the risk of the player's solution is reflected in the game in the form of reduced scores and no access to resources. At the end of turn 10, the player with the highest score represents the solution with the lowest potential risk.
 
 To reduce the randomness of the game and improve the reflection of decision-making ability in the game, at the beginning of the turn, the player will need to specify the type and number of questions to be answered (up to 6 questions with any type). If the answer is successful, the corresponding resources will be obtained. If the answer fails, not only cannot obtain resources but also directly deduct scores (-2). This means that the winner's solution not only with low non-technical risk but also shows that the player representing the solution has sufficient decision-making ability and adaptability.
+
+# Introduction to the rules
+
+- Participants
+  - Players:
+    - If there are N solutions, then will need N players, each player (Usually group leader) represents a solution.
+  - God:
+    - The manager, project owner or shareholder of the project.
+
+- Preparation for start of the game.
 
