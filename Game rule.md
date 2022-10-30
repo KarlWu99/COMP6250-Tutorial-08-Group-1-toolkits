@@ -26,3 +26,9 @@ To reduce the randomness of the game and improve the reflection of decision-maki
   - Step 5: Repeat Step 1 to 4.
   - Step 6: The game ends when all players complete their 10th turn.
 
+- Judgement.
+  - God needs to judge whether each player's answer is reasonable. If other players have any objection to this answer, they can raise it to God.
+  - If the player answers the question successfully, they will get the corresponding resource card, otherwise, 1 point will be directly deducted.
+
+- Building Constraints.
+- Similar to Catan Dice - Island 1, in addition to having available resources, there are certain restrictions on the order in which structures are built:
