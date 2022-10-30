@@ -9,6 +9,8 @@ To reduce the randomness of the game and improve the reflection of decision-maki
 # Introduction to the rules
 
 - Game Overview
+  - This is a modified version of [Catan Dice Game](https://www.catan.com/dice-game). The game references Catan Dice - Island 1, Game rule of Catan Dice - Island 1
+  <https://www.youtube.com/watch?v=DNZ4tXhnBFA>.
 
 - The Game Board
   - ![Island One score sheet](island-one-score-sheet-annotated.png)
