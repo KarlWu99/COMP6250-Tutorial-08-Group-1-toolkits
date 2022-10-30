@@ -31,4 +31,4 @@ To reduce the randomness of the game and improve the reflection of decision-maki
   - If the player answers the question successfully, they will get the corresponding resource card, otherwise, 1 point will be directly deducted.
 
 - Building Constraints.
-- Similar to Catan Dice - Island 1, in addition to having available resources, there are certain restrictions on the order in which structures are built:
+  Similar to Catan Dice - Island 1, in addition to having available resources, there are certain restrictions on the order in which structures are built:
