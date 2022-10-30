@@ -2,9 +2,9 @@
 
 ## Toolkit 1
 
-- LINK
+- [Game rule](Game%20rule.md)
 
-- LINK
+- [Question Pool](Question%20Pool.md)
 
 ## Toolkit 2
 
