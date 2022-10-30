@@ -8,6 +8,13 @@ To reduce the randomness of the game and improve the reflection of decision-maki
 
 # Introduction to the rules
 
+- Game Overview
+
+- The Game Board
+  - 
+
+
+
 - Participants
   - Players:
     - If there are N solutions, then will need N players, each player (Usually group leader) represents a solution.
@@ -17,6 +24,10 @@ To reduce the randomness of the game and improve the reflection of decision-maki
 - Preparation.
   - Each player needs a game board and a pen.
   - Each player needs to list 5 social technical questions about the project for each category, God needs to check and remove duplicate questions and put them in the question pool by the category.
+
+- Resources
+  - A little bit different from Catan Dice - Island 1, there is no Gold. There is five different types of resources: Ore, Grain, Wool, Timber, and Bricks, corresponding to 5 types of socio-technical issues: stakeholders, teamwork, ethics, environment and society. Each structure has a build cost, which is the resources a player must have available to build it. For example, building a Road consumes 1 Brick and 1 Timber. The build costs are summarised at the top of the score card. 
+
 
 - Play method.
   - Step 1: Players randomly draw a specified number (determined by the player) of question cards (up to 5, each of them can be of any category) from the question card pool. For example, the player can specify to draw 2 stakeholder question cards, 2 ethical question cards, and 1 social question card.
