@@ -58,4 +58,10 @@
 4. What resource consumption (energy and materials) will you have in your solution?
 
 ### **Society:**
-1. 
+1. Is there a possibility of infringement on your solution and how?
+2. Please list 3 social systems that will be affected in your solution and explain how.
+3. Please briefly explain the legality of your solution.
+4. Is your solution likely to cause social controversy over the project? If so, what would you do?
+5. Is there any chance of someone abusing the project after implementing your solution? If so, are there any countermeasures?
+6. Will the project after implementing your solution negatively change some social conditions?
+7. How will the project after implementing your solution contribute to society?
