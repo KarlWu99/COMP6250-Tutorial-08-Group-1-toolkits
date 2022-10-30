@@ -12,8 +12,8 @@ To reduce the randomness of the game and improve the reflection of decision-maki
 
 - The Game Board
   - ![Island One score sheet](island-one-score-sheet-annotated.png)
-
-
+  - The game board (or map) has four types of buildable structures: roads (rectangular, edges between hexagonal tiles), settlements (small house shapes in the corners of tiles), cities (larger house shapes, also in the upper corners of the tiles) and knights (figures near the centre of each tile). Initially, only one road (the filled one, with arrows) was built; all other structures were not built. As players build structures, they mark them on the map by filling them.
+All buildable structures on the map have a number, which is their point value. All roads are worth 1 point, while settlements, cities and knights are worth different points.
 
 - Participants
   - Players:
