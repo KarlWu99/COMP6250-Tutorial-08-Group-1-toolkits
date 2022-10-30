@@ -23,7 +23,9 @@ All buildable structures on the map have a number, which is their point value. A
 
 - Preparation.
   - Each player needs a game board and a pen.
+  - Resource cards are required, they can be just some paper with the resource type written on them.
   - Each player needs to list 3 social technical questions about the project for each category, God needs to check and remove duplicate questions and put them in the question pool by the category.
+  - Question cards with questions, they can be just some paper with the question written on them.
 
 - Resources
   - A little bit different from Catan Dice - Island 1, there is no Gold. There is five different types of resources: Ore, Grain, Wool, Timber, and Bricks. Each structure has a build cost, which is the resources a player must have available to build it. For example, building a Road consumes 1 Brick and 1 Timber. The build costs are summarised at the top of the score card. 
