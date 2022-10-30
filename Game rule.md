@@ -11,7 +11,7 @@ To reduce the randomness of the game and improve the reflection of decision-maki
 - Game Overview
 
 - The Game Board
-  - 
+  - ![Island One score sheet](island-one-score-sheet-annotated.png)
 
 
 
