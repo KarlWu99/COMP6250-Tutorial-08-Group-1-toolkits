@@ -8,5 +8,5 @@
 
 ## Toolkit 2
 
-- [Stakeholder Analysis Tool](toolkit-1-stakerholder.pdf)
+- [Stakeholder Analysis Tool](toolkit-2-stakeholder.pdf)
 
